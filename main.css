@@ -1,0 +1,29 @@
+.top-bar{
+    width: 100%;
+    height: 50px;
+    background-color: gray;
+}
+.ui.sidebar{
+    top: 50px;
+}
+
+.ui.inverted.menu{
+    background: rgb(194, 194, 194);
+    width: 30%;
+}
+.ui.left.sidebar{
+    width:20%;
+    min-width: 150px;
+    max-width: 260px;
+}
+.top-left{
+    padding: 10px;
+    width: 20%;
+    min-width: 190px;
+    max-width: 260px;
+}
+.search-box{
+    float: right;
+    padding: 10px 50px 10px 0px;
+    width: 30%;
+}
